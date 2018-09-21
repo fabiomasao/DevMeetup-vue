@@ -29,7 +29,7 @@
 
   		<v-layout row wrap class="mt-2">
 			<v-flex xs12  class="text-xs-center">
-				<p>Junte-se aos nossos meetups!</p>
+				<p>Faça parte dos nossos meetups!</p>
 			</v-flex>
 		</v-layout>
 
@@ -42,7 +42,7 @@ export default{
 		return{
 			meetups:[
 				{imageUrl:'https://c1.staticflickr.com/9/8652/16586825346_7898b04cff_b.jpg', id:'sasadfef121', title:'Meetup in São Paulo'},
-				{imageUrl:'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Rio_de_Janeiro_Helicoptero_47_Feb_2006.jpg/800px-Rio_de_Janeiro_Helicoptero_47_Feb_2006.jpg', title:'Meetup in Rio de Janeiro'},
+				{imageUrl:'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Rio_de_Janeiro_Helicoptero_47_Feb_2006.jpg/800px-Rio_de_Janeiro_Helicoptero_47_Feb_2006.jpg',id:'testerio', title:'Meetup in Rio de Janeiro'},
 			]
 
    		}
