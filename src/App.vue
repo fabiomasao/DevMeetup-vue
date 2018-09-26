@@ -44,7 +44,7 @@ export default {
       sideNav: false,
       menuItems: [
         {icon:'supervisor_account', title:'Ver Meetups', link: '/meetups'},
-        {icon:'room', title:'Encontros Meetups',link:'/meetups/new'},
+        {icon:'room', title:'Cadastro de Meetups',link:'/meetups/new'},
         {icon:'person', title:'Perfil', link:'/profile'},
         {icon:'face', title:'Cadastro', link:'/signup'},
         {icon:'lock_open', title:'Login',link:'/signin'}
